@@ -1,0 +1,88 @@
+﻿<UserControl x:Class="LIbraryManagementSystem.AddBookPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="800"
+	 Name="AddBook"
+       >
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="220"></ColumnDefinition>
+            <ColumnDefinition Width="250"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+           
+        </Grid.ColumnDefinitions>
+
+
+
+        <TextBlock Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Height="35" Text="Add Book" HorizontalAlignment="Center" FontSize="24" Width="200" FontWeight="Bold"></TextBlock>
+
+        <Label Grid.Row="1" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Book Id No:</Label>
+        <TextBox Name="BookidnoTextBox" Grid.Row="1" Grid.Column="2" Height="35"></TextBox>
+
+
+        <Label Grid.Row="2" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Book Isbn No:</Label>
+        <TextBox Name="BookisbnnoTextBox" Grid.Row="2" Grid.Column="2" Height="35"></TextBox>
+
+
+        <Label Grid.Row="3" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Book Name:</Label>
+        <TextBox Name="BooknameTextBox" Grid.Row="3" Grid.Column="2" Height="35"  ></TextBox>
+
+        <Label Grid.Row="4" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Author Name:</Label>
+        <TextBox Name="Authorname1TextBox" Grid.Row="4" Grid.Column="2" Height="35"></TextBox>
+
+        <Label Grid.Row="5" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Author Name:</Label>
+        <TextBox Name="Authorname2TextBox" Grid.Row="5" Grid.Column="2" Height="35"></TextBox>
+
+        <Label Grid.Row="6" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Author Name:</Label>
+        <TextBox Name="Authorname3TextBox" Grid.Row="6" Grid.Column="2" Height="35"></TextBox>
+
+        <Label Grid.Row="7" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Price:</Label>
+        <TextBox Name="PriceTextBox" Grid.Row="7" Grid.Column="2" Height="35"></TextBox>
+
+
+        <Label Grid.Row="8" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">No Of Books:</Label>
+        <TextBox Name="NumbersofbookTextBox" Grid.Row="8" Grid.Column="2" Height="35"></TextBox>
+
+        <Label Grid.Row="9" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Dept_Name:</Label>
+        <ComboBox Name="DeptnameComboBox" Grid.Row="9" Grid.Column="2" Height="35"></ComboBox>
+
+        <Label Grid.Row="10" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Publisher Name:</Label>
+        <TextBox Name="PublisherTextBox" Grid.Row="10" Grid.Column="2" Height="35"></TextBox>
+
+        <Label Grid.Row="11" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Edition:</Label>
+        <TextBox Name="EditionTextBox" Grid.Row="11" Grid.Column="2" Height="35"></TextBox>
+
+
+        <Label Grid.Row="12" Grid.Column="1" Height="35" HorizontalAlignment="Right" FontSize="18" FontWeight="Bold">Shelf Number:</Label>
+        <TextBox Name="ShelfnoBox" Grid.Row="12" Grid.Column="2" Height="35"></TextBox>
+
+        
+
+        <Button Grid.Row="14" Grid.Column="2" Height="35" FontSize="18" FontWeight="Bold" Width="80" Name="SavebookButton" Click="SavebookButton_Click">Save</Button>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,204 @@
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe.config
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.pdb
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddBookPage.baml
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddDepartmentPage.baml
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddMemberPage.baml
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\CalculateFinePage.baml
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\MainWindow.baml
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\UpdateBookPage.baml
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddBookPage.g.cs
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddDepartmentPage.g.cs
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddMemberPage.g.cs
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\CalculateFinePage.g.cs
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\UpdateBookPage.g.cs
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\App.g.cs
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem_MarkupCompile.cache
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.g.resources
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.Properties.Resources.resources
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.exe
+C:\Users\Ram\documents\visual studio 2012\Projects\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.pdb
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe.config
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe.manifest
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.application
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.pdb
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddBookPage.baml
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddDepartmentPage.baml
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddMemberPage.baml
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\BookListUserControl.baml
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\CalculateFinePage.baml
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\DepartmentListUserControl.baml
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\MainWindow.baml
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\MemberListUserControl.baml
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\UpdateBookPage.baml
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\UpdateMemberUserControl.baml
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddBookPage.g.cs
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddDepartmentPage.g.cs
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddMemberPage.g.cs
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\BookListUserControl.g.cs
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\CalculateFinePage.g.cs
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\DepartmentListUserControl.g.cs
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\MainWindow.g.cs
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\MemberListUserControl.g.cs
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\UpdateBookPage.g.cs
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\UpdateMemberUserControl.g.cs
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\App.g.cs
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem_MarkupCompile.cache
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.g.resources
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.Properties.Resources.resources
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.csproj.GenerateResource.Cache
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.exe.manifest
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.application
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.exe
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.pdb
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.csprojResolveAssemblyReference.cache
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem_Content.g.cs
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LibraryManagement.mdf
+E:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LibraryManagement_log.ldf
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe.config
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe.manifest
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.application
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.pdb
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddBookPage.baml
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddDepartmentPage.baml
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddMemberPage.baml
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\BookListUserControl.baml
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\CalculateFinePage.baml
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\DepartmentListUserControl.baml
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\MainWindow.baml
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\MemberListUserControl.baml
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\UpdateBookPage.baml
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\UpdateMemberUserControl.baml
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddBookPage.g.cs
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddDepartmentPage.g.cs
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddMemberPage.g.cs
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\BookListUserControl.g.cs
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\CalculateFinePage.g.cs
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\DepartmentListUserControl.g.cs
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\MainWindow.g.cs
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\MemberListUserControl.g.cs
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\UpdateBookPage.g.cs
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\UpdateMemberUserControl.g.cs
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\App.g.cs
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem_MarkupCompile.cache
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.g.resources
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.Properties.Resources.resources
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.csproj.GenerateResource.Cache
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.exe.manifest
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.application
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.exe
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.pdb
+F:\Proj\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.csprojResolveAssemblyReference.cache
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe.config
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe.manifest
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.application
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.pdb
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.csprojResolveAssemblyReference.cache
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddBookPage.baml
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddDepartmentPage.baml
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddMemberPage.baml
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\BookListUserControl.baml
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\CalculateFinePage.baml
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\DepartmentListUserControl.baml
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\MainWindow.baml
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\MemberListUserControl.baml
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\UpdateBookPage.baml
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\UpdateMemberUserControl.baml
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddBookPage.g.cs
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddDepartmentPage.g.cs
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\AddMemberPage.g.cs
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\BookListUserControl.g.cs
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\CalculateFinePage.g.cs
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\DepartmentListUserControl.g.cs
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\MainWindow.g.cs
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\MemberListUserControl.g.cs
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\UpdateBookPage.g.cs
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\UpdateMemberUserControl.g.cs
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\App.g.cs
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem_MarkupCompile.cache
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.g.resources
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.Properties.Resources.resources
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.csproj.GenerateResource.Cache
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.exe.manifest
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.application
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.exe
+F:\C#\Project\LIbraryManagementSystem\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.pdb
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe.config
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.exe
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.pdb
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe.manifest
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.application
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.pdb
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.csprojResolveAssemblyReference.cache
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\AddBookPage.baml
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\AddDepartmentPage.baml
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\AddMemberPage.baml
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\BookListUserControl.baml
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\CalculateFinePage.baml
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\DepartmentListUserControl.baml
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\MainWindow.baml
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\MemberListUserControl.baml
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\UpdateBookPage.baml
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\UpdateMemberUserControl.baml
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\AddBookPage.g.cs
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\AddDepartmentPage.g.cs
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\AddMemberPage.g.cs
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\BookListUserControl.g.cs
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\CalculateFinePage.g.cs
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\DepartmentListUserControl.g.cs
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\MainWindow.g.cs
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\MemberListUserControl.g.cs
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\UpdateBookPage.g.cs
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\UpdateMemberUserControl.g.cs
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\App.g.cs
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem_MarkupCompile.cache
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.g.resources
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.Properties.Resources.resources
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.csproj.GenerateResource.Cache
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.exe.manifest
+F:\C#\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.application
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe.config
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.exe
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.pdb
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe.manifest
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.application
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.pdb
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.csprojResolveAssemblyReference.cache
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\AddBookPage.baml
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\AddDepartmentPage.baml
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\AddMemberPage.baml
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\BookListUserControl.baml
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\CalculateFinePage.baml
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\DepartmentListUserControl.baml
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\MainWindow.baml
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\MemberListUserControl.baml
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\UpdateBookPage.baml
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\UpdateMemberUserControl.baml
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\AddBookPage.g.cs
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\AddDepartmentPage.g.cs
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\AddMemberPage.g.cs
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\BookListUserControl.g.cs
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\CalculateFinePage.g.cs
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\DepartmentListUserControl.g.cs
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\MainWindow.g.cs
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\MemberListUserControl.g.cs
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\UpdateBookPage.g.cs
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\UpdateMemberUserControl.g.cs
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\App.g.cs
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem_MarkupCompile.cache
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.g.resources
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.Properties.Resources.resources
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.csproj.GenerateResource.Cache
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.exe.manifest
+D:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.application
+E:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\bin\Debug\LIbraryManagementSystem.exe.config
+E:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.exe
+E:\Project\LIbraryManagementSystem\Library\LIbraryManagementSystem\obj\Debug\LIbraryManagementSystem.pdb

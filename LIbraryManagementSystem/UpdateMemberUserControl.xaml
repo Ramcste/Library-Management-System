@@ -1,0 +1,70 @@
+﻿<UserControl x:Class="LIbraryManagementSystem.UpdateMemberUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="800">
+    <Grid Background="White">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="220"></ColumnDefinition>
+            <ColumnDefinition Width="250"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+
+
+        </Grid.ColumnDefinitions>
+
+
+
+
+        <TextBlock Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Height="35" Text="Add Member" HorizontalAlignment="Center" FontSize="24" Width="200" FontWeight="Bold"></TextBlock>
+
+        <Label Grid.Row="1" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Card No.:</Label>
+        <ComboBox Name="MembercarddnoComboBox" Grid.Row="1" Grid.Column="2" Height="35" SelectionChanged="MembercarddnoComboBox_OnSelectionChanged"></ComboBox>
+
+        <Label Grid.Row="2" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Name:</Label>
+        <TextBox Name="MembernameTextBox" Grid.Row="2" Grid.Column="2" Height="35"></TextBox>
+
+        <Label Grid.Row="3" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Hall and Room No.:</Label>
+        <TextBox Name="MemberaddressTextBox" Grid.Row="3" Grid.Column="2" Height="35"></TextBox>
+
+        <Label Grid.Row="4" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Mobile Number:</Label>
+        <TextBox Name="MemberphonenumberTextBox" Grid.Row="4" Grid.Column="2" Height="35"></TextBox>
+
+
+        <Label Grid.Row="5" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Department:</Label>
+        <ComboBox Name="DeptnameComboBox" Grid.Row="5" Grid.Column="2" Height="35">
+
+        </ComboBox>
+
+        <Label Grid.Row="6" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Roll No.:</Label>
+        <TextBox Name="RollnoTextBox" Grid.Row="6" Grid.Column="2" Height="35" />
+
+        <Label Grid.Row="7" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Validity:</Label>
+        <DatePicker  Name="Dateexpiry" Grid.Row="7" Grid.Column="2" Height="35"></DatePicker>
+
+        <Label Grid.Row="8" Grid.Column="1" HorizontalAlignment="Right" Height="35" FontSize="18" FontWeight="Bold">Session:</Label>
+        <TextBox Name="SessionTextBox" Grid.Row="8" Grid.Column="2" Height="35"></TextBox>
+
+        <Button Grid.Row="9" Grid.Column="2" Height="35" FontSize="18" FontWeight="Bold" Width="80" Name="UpdatememberButton" Click="UpdatememberButton_OnClick">Save</Button>
+
+
+
+    </Grid>
+</UserControl>
